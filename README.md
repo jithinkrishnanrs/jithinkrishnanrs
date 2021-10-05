@@ -30,10 +30,10 @@
 <br />
 
 ---
-[![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinkrishnanrs&show_icons=true&theme=dark&hide=prs)]()
+[![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinkrishnanrs&show_icons=true&theme=dark&hide=prs)](https://github.com/jithinkrishnanrs)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinkrishnanrs&&langs_count=10&&layout=compact&theme=dark)]( &nbsp; )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinkrishnanrs&&langs_count=10&&layout=compact&theme=dark)](https://github.com/jithinkrishnanrs?tab=repositories)
 
 
 
