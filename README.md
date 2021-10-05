@@ -31,7 +31,10 @@
 
 ---
 [![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinkrishnanrs&show_icons=true&theme=dark&hide=prs)]()
+
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinkrishnanrs&&langs_count=10&&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [twitter]: https://twitter.com/JithinKrishnann
