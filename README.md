@@ -11,6 +11,7 @@
 [<img align="left" alt="Jithin Krishnan | LinkedIn" width="22px" src="./assets/images/linkedin.png" />][linkedin]
 [<img align="left" alt="Jithin Krishnan | Twitter" width="22px" src="./assets/images/twitter.png" />][twitter]
 [<img align="left" alt="Jithin Krishnan | Instagram" width="22px" src="./assets/images/instagram.png" />][instagram]
+[<img align="left" alt="Jithin Krishnan | Website" width="22px" src="./assets/images/web.png" />][website]
 
 <br />
 
@@ -40,3 +41,4 @@
 [twitter]: https://twitter.com/JithinKrishnann
 [instagram]: https://www.instagram.com/ji_th_in_._
 [linkedin]: https://www.linkedin.com/in/jithinkrishnan-rs
+[website]: https://jithinkrishnanrs.github.io/Personal-Website
