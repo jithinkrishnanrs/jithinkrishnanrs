@@ -1,10 +1,6 @@
 ## Hi, I'm [Jithin Krishnan](https://github.com/jithinkrishnanrs) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 <br/>
 
-![](https://komarev.com/ghpvc/?username=jithinkrishnanrs&color=blueviolet&label=Profile+Views)
-
-
-
 ## I'm a Computer Science and Engineering Student...!!
 
 - 🌱 I’m currently learning **node.js**
@@ -41,7 +37,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinkrishnanrs&&langs_count=10&&layout=compact&theme=dark)](https://github.com/jithinkrishnanrs?tab=repositories)
 
-
+![](https://komarev.com/ghpvc/?username=jithinkrishnanrs&color=blueviolet&label=Profile+Views)
 
 [twitter]: https://twitter.com/JithinKrishnann
 [instagram]: https://www.instagram.com/ji_th_in_._
