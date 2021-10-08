@@ -9,24 +9,24 @@
 
 ### 🔗 Connect With Me:
 
-[<img align="left" alt="Jithin Krishnan | LinkedIn" width="22px" src="./assets/images/linkedin.png" />][linkedin]
-[<img align="left" alt="Jithin Krishnan | Twitter" width="22px" src="./assets/images/twitter.png" />][twitter]
-[<img align="left" alt="Jithin Krishnan | Instagram" width="22px" src="./assets/images/instagram.png" />][instagram]
-[<img align="left" alt="Jithin Krishnan | Website" width="22px" src="./assets/images/web.png" />][website]
+[<img align="left" alt="Jithin Krishnan | LinkedIn" width="25px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="Jithin Krishnan | Twitter" width="25px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />][twitter]
+[<img align="left" alt="Jithin Krishnan | Instagram" width="25px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Jithin Krishnan | Website" width="25px" src="https://img.icons8.com/color/48/000000/internet--v1.png" />][website]
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 [<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="46px" src="./assets/images/github.png" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/)
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 <br />
 <br />
