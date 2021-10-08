@@ -1,5 +1,4 @@
 ## Hi, I'm [Jithin Krishnan](https://github.com/jithinkrishnanrs) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-<br/>
 
 ## I'm a Computer Science and Engineering Student...!!
 
