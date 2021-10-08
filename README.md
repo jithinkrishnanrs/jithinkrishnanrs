@@ -9,10 +9,10 @@
 
 ### 🔗 Connect With Me:
 
-[<img align="left" alt="Jithin Krishnan | LinkedIn" width="25px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
-[<img align="left" alt="Jithin Krishnan | Twitter" width="25px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />][twitter]
-[<img align="left" alt="Jithin Krishnan | Instagram" width="25px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
-[<img align="left" alt="Jithin Krishnan | Website" width="25px" src="https://img.icons8.com/color/48/000000/internet--v1.png" />][website]
+[<img align="left" alt="Jithin Krishnan | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="Jithin Krishnan | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />][twitter]
+[<img align="left" alt="Jithin Krishnan | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Jithin Krishnan | Website" width="30px" src="https://img.icons8.com/color/48/000000/internet--v1.png" />][website]
 
 <br />
 
