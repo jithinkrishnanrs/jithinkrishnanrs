@@ -1,4 +1,8 @@
 ## Hi, I'm [Jithin Krishnan](https://github.com/jithinkrishnanrs) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<br/>
+
+![](https://komarev.com/ghpvc/?username=jithinkrishnanrs&color=blueviolet&label=Profile+Views)
+
 
 
 ## I'm a Computer Science and Engineering Student...!!
