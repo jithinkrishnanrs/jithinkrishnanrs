@@ -1,12 +1,13 @@
-### Hi there, I'm Jithin Krishnan 👋
+## Hi, I'm [Jithin Krishnan](https://github.com/jithinkrishnanrs) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+
 
 ## I'm a Computer Science and Engineering Student...!!
 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning **node.js**
 - 📫 How to reach me: jithinkrishnan42@gmail.com
-- 😄 Pronouns: He/Him
+- ⚡ Fun fact **still Student.**
 
-### Connect With Me:
+### 🔗 Connect With Me:
 
 [<img align="left" alt="Jithin Krishnan | LinkedIn" width="22px" src="./assets/images/linkedin.png" />][linkedin]
 [<img align="left" alt="Jithin Krishnan | Twitter" width="22px" src="./assets/images/twitter.png" />][twitter]
@@ -17,8 +18,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="./assets/images/github.png" />]()
+[<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="46px" src="./assets/images/github.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
