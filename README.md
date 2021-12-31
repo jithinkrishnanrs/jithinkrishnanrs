@@ -2,9 +2,10 @@
 
 ## I'm a Computer Science and Engineering Student...!!
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Software Testing**
 - 📫 How to reach me: jithinkrishnan42@gmail.com
-- ⚡ Fun fact **still Student.**
+- ⚙️ I am good at: Software Testing, Manual Testing
+- ⚡ Fun fact **still student, learning everyday.**
 
 ### 🔗 Connect With Me:
 
@@ -22,9 +23,7 @@
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="Software Testing" width="40px" src="https://img.icons8.com/color/48/000000/software-box.png"/>]()
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 <br />
